@@ -1,4 +1,4 @@
-# 
+# VIP Glary Utilities scripts para Mac OS | Turbo Glary Utilities scripts para PC Windows. Com pontos de restauracao e otimizacao de registro — otimizado para máximo desempenho em cada plataforma.
 
 
 
